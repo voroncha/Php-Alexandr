@@ -1,4 +1,6 @@
-
+.cool{
+    background-color: aqua;
+}
 .text{
 color: blue;
     font-style: italic;
@@ -6,4 +8,4 @@ color: blue;
 }
 thead{
     font-weight: 700;
-}
+       }
